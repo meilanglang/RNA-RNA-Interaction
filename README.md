@@ -1,8 +1,8 @@
-#RNA-RNA-Interaction  
-###Software Requirments:  
+# RNA-RNA-Interaction  
+### Software Requirments:  
 Python3  
 SPOT-RNA  
-###Installation and Run:  
+### Installation and Run:  
 git clone https://github.com/meilanglang/RNA-RNA-Interaction.git  
 down load SPOT-RNA from https://github.com/jaswindersingh2/SPOT-RNA.git and install  
 cd ./RRI-SPOT  

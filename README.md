@@ -10,11 +10,13 @@ The intricate network of RNA-RNA interactions, crucial for orchestrating essenti
 
 ## Pre-requisites
 
- [Python3]([Installing Python 3 on Linux — The Hitchhiker's Guide to Python (python-guide.org)](https://docs.python-guide.org/starting/install3/linux/))
+ [Python3](https://docs.python-guide.org/starting/install3/linux/)
 
-[Biopython]([Download · Biopython](https://biopython.org/wiki/Download))
+[Biopython](https://biopython.org/wiki/Download)
 
 [SPOT-RNA](https://github.com/jaswindersingh2/SPOT-RNA)
+
+
 
 
 

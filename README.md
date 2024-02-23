@@ -6,7 +6,7 @@ The intricate network of RNA-RNA interactions, crucial for orchestrating essenti
 
 ## Results
 
-![![image-20240222175604900](C:\Users\ylang\AppData\Roaming\Typora\typora-user-images\image-20240222175604900.png)]
+![image-20240222175604900](C:\Users\ylang\AppData\Roaming\Typora\typora-user-images\image-20240222175604900.png)
 
 ## Pre-requisites
 

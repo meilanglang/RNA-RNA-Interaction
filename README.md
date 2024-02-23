@@ -6,9 +6,7 @@ The intricate network of RNA-RNA interactions, crucial for orchestrating essenti
 
 ## Results
 
-Compare SPOT-RNAc with other methods
-
-![SPOT-RNAc compare with other methods](https://github.com/meilanglang/RNA-RNA-Interaction/blob/master/analysis/Fig1.png)
+![image text](https://github.com/meilanglang/RNA-RNA-Interaction/blob/master/analysis/Fig1.png "SPOT-RNAc Performance Comparison")
 
 ## Pre-requisites
 

@@ -6,7 +6,9 @@ The intricate network of RNA-RNA interactions, crucial for orchestrating essenti
 
 ## Results
 
-Compare SPOT-RNAc with other methods![Fig1](D:\RRI\benchmark\result\HardTS1\fig\paperFig\Fig1.png)
+Compare SPOT-RNAc with other methods
+
+![Fig1](D:\Project\RNA-RNA-Interaction\analysis\Fig1.png)
 
 ## Pre-requisites
 

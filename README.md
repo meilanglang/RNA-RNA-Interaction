@@ -16,10 +16,6 @@ The intricate network of RNA-RNA interactions, crucial for orchestrating essenti
 
 [SPOT-RNA](https://github.com/jaswindersingh2/SPOT-RNA)
 
-
-
-
-
 ## Usage
 
 cd SPOT-RNAc

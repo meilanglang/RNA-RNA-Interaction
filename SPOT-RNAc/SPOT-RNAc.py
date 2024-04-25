@@ -214,3 +214,6 @@ if __name__ == '__main__':
 
     check_file_exist(rri_output)
     pair2dbn(predict_pair, seq1, seq2, rri_output)
+
+
+

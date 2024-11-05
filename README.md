@@ -1,4 +1,4 @@
-#  Deep learning models of RNA base-pairing structures generalize to unseen folds and make accurate zero-shot predictions of base-base interactions of RNA complexes
+#  Benchmarking the methods for predicting base pairs in RNA-RNA interactions
 
 ## Introduction
 

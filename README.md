@@ -28,8 +28,12 @@ python3  SPOT-RNAc.py --I1 inputs/seq_1/6XJQ_A.fasta --I2 inputs/seq_2/6XJQ_A.fa
 
 RNA-RNA-Interaction_DataSet_64.csv 
 
+<<<<<<< HEAD
 
-**In the /data also have the pdb 3d file and dssr file used in the paper:**
+**In the /data also have the pdb 3d file and dssr file used in the paper**
+=======
+**the ./data also contain the the PDB 3D file and parse DSSR file that used in paper:**
+>>>>>>> bd9e2a0efcc05626bc0c5981aea446cdd385c223
 
 ## Contact
 

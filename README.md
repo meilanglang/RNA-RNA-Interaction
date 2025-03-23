@@ -6,7 +6,7 @@ The intricate network of RNA-RNA interactions, crucial for orchestrating essenti
 
 ## Results
 
-![image text](https://github.com/meilanglang/RNA-RNA-Interaction/blob/master/analysis/FIG1.png  "SPOT-RNAc Performance Comparison")
+![image text](https://github.com/meilanglang/RNA-RNA-Interaction/blob/master/results/FIG1.png  "SPOT-RNAc Performance Comparison")
 
 ## Pre-requisites
 
@@ -28,9 +28,8 @@ python3  SPOT-RNAc.py --I1 inputs/seq_1/6XJQ_A.fasta --I2 inputs/seq_2/6XJQ_A.fa
 
 RNA-RNA-Interaction_DataSet_64.csv 
 
-**The following data is 34 RNA-RNA interaction pairs that it`s Not Match Rfam family:**
 
-RNA-RNA_Interaction_Not_Match_rfam_23.csv 
+**In the /data also have the pdb 3d file and dssr file used in the paper:**
 
 ## Contact
 

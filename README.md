@@ -24,7 +24,9 @@ python3  SPOT-RNAc.py --I1 inputs/seq_1/6XJQ_A.fasta --I2 inputs/seq_2/6XJQ_A.fa
 
 ## DataSets
 **The following data is 64 RNA-RNA interaction pairs:**
+
 RNA-RNA-Interaction_DataSet_64.csv 
+
 **the ./data also contain the the PDB 3D file and parse DSSR file that used in paper:**
 
 ## Contact

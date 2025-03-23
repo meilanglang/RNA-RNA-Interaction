@@ -28,9 +28,7 @@ python3  SPOT-RNAc.py --I1 inputs/seq_1/6XJQ_A.fasta --I2 inputs/seq_2/6XJQ_A.fa
 
 RNA-RNA-Interaction_DataSet_64.csv 
 
-**The following data is 34 RNA-RNA interaction pairs that it`s Not Match Rfam family:**
-
-RNA-RNA_Interaction_Not_Match_rfam_23.csv 
+**the ./data also contain the the PDB 3D file and parse DSSR file that used in paper:**
 
 ## Contact
 
